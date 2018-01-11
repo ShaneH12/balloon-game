@@ -1,5 +1,23 @@
+header {
+  text-align: center;
+}
+
+
+
+section {
+  width: 60%;
+  margin: 0 auto;
+}
+
 .balloon {
   height: 200px;
   width: 200px;
   background-color: red;
+  margin-right:  10px;
+  border-radius: 50%;
+}
+
+.containing {
+  display: inline-flex;
+  margin-bottom: 10px;
 }
