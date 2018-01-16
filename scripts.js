@@ -1,6 +1,4 @@
 
-document.getElementById("button").addEventListener("click", popBalloon);
-
       var start = new Date().getTime();
 
 
